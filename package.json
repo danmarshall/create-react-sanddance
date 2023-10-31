@@ -3,14 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fluentui/react": "^8",
+    "@msrvida/sanddance-explorer": "^4.1.6",
+    "@msrvida/sanddance-react": "^4.0.2",
     "react": "17",
     "react-dom": "17",
     "react-scripts": "5.0.1",
-    "vega": "^5.25.0",
-    "web-vitals": "^2.1.4",
-    "@fluentui/react": "^8",
-    "@msrvida/sanddance-explorer": "^4.1.6",
-    "@msrvida/sanddance-react": "^4.0.2"
+    "vega": "^5.25.0"
   },
   "scripts": {
     "start": "react-scripts start",
